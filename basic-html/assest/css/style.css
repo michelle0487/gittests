@@ -1,0 +1,73 @@
+	.container
+	 {
+						border: 2px solid darkred;
+						height: 900px;
+				}
+
+				.border-class {
+					border-bottom: 2px solid darkred;
+				}
+				.td-1{
+					width: 400px;
+					padding: 20px;
+					padding-top: 10px;
+					padding-bottom: 20px;
+					font-weight: bold;
+				}
+				
+				.td-2 {
+					width: 80%;
+					font-weight: bold;
+				}
+				.name-div {
+					float:right; 
+					padding-right: 50px;
+					font-size: 30px;
+				}
+
+				.sidebar {
+					border-right: 2px solid darkred;
+					height: 756px ;
+					width: 350px;
+
+				}
+		
+			ul li { 
+				list-style: none;
+				font-weight: bold ;
+				font-size: 20px;
+
+			}
+			ul li a {
+				text-decoration: none;
+
+			}
+
+			.sidebar {
+			   	position: absolute;
+			    border-right: 2px darkred;
+			    border-right: 2px solid darkred;
+			    height: 758px;
+			    width: 250px;
+
+			}
+
+			.content {
+
+				text-decoration-style: wavy;
+				width: 71%;
+				float: right;
+				font-style: italic;
+				text-align-all: justify;
+				font-size: 20px;
+				
+			}
+
+			
+			
+		
+
+
+
+
+
